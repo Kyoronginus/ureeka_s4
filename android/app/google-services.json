@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "23742411688",
+    "project_id": "ureekatraining",
+    "storage_bucket": "ureekatraining.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23742411688:android:59387f791b195c83ba239d",
+        "android_client_info": {
+          "package_name": "com.example.ureeka_training"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWs_kWbHbTnH0ashpqF9o08Cq9k8Y-6f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

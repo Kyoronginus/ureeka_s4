@@ -1,5 +1,6 @@
-package com.example.ureeka_s4
+package com.example.ureeka_training
 
 import io.flutter.embedding.android.FlutterActivity
 
-class MainActivity: FlutterActivity()
+class MainActivity: FlutterActivity() {
+}

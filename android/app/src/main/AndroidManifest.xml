@@ -1,4 +1,5 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.ureeka_training">
     <application
         android:label="ureeka_s4"
         android:name="${applicationName}"
