@@ -1,16 +1,7 @@
 # ureeka_s4
 
-A new Flutter project.
+This application was made for mobile development training assignment, which Held by UREEKA.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Session 4 : Provider
+Session 5 : Shared Preference
+Session 6 : Authentication using Firebase
